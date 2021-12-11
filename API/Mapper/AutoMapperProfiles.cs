@@ -15,7 +15,10 @@ namespace API.Mapper
             // GET o LIST
             CreateMap<Producto,ProductoToListDto>();
 
-            
+             // Usuarios
+            CreateMap<UsuarioRegisterDto, Usuario>();
+            CreateMap<UsuarioLoginDto, Usuario>();
+            CreateMap<Usuario,UsuarioListDto>(); 
         }
     }
 }

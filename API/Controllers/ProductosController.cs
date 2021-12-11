@@ -2,10 +2,12 @@ using API.Data.Interfaces;
 using API.Dtos;
 using API.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class ProductosController : ControllerBase
@@ -19,6 +21,7 @@ namespace API.Controllers
             _mapper = mapper;
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public async Task<IActionResult> Get()
         {

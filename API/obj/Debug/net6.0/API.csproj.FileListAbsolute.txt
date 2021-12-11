@@ -53,3 +53,10 @@
 /Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/obj/Debug/net6.0/ref/API.dll
 /Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/obj/Debug/net6.0/API.pdb
 /Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/misaelcazarez/Desktop/DotNet/LatinoNet/WebAPILatinoNet/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
